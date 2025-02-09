@@ -36,7 +36,7 @@
 >     - [x] Create enemy A.I. using Unity navmesh  
 >     - [x] Integrate enemies  
 >     - [x] Integrate enemies with game  
->     - [ ] Work with Omar to create quest/objective system
+>     - [x] Work with Omar to create quest/objective system
 >     - [ ] Create start menu
 > - [ ] __Shared Tasks__  
 >     - [ ] Create at least 3 levels  
